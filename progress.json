@@ -178,5 +178,14 @@
       "You have successfully undone the init operation!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1787209348.343668,
+    "completed_at": 1787209353.073151,
+    "comments": [
+      "Clone named shapes is missing! Remember to clone your fork using the name 'shapes', not 'gm-shapes'!"
+    ],
+    "status": "Incomplete"
   }
 ]
