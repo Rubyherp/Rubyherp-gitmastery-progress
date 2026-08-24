@@ -512,5 +512,14 @@
       "You need to merge 'feature-delete' second!"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-docs",
+    "started_at": 1787587732.794145,
+    "completed_at": 1787587734.486061,
+    "comments": [
+      "Great work using all of the concepts you've learnt about branching to mix the messy documentation!"
+    ],
+    "status": "Completed"
   }
 ]
